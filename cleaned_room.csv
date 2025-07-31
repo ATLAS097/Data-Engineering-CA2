@@ -1,0 +1,49 @@
+BuildingID,RoomID,Purpose,DepartmentID
+B0001,R0101,Consultation Room,D0001
+B0001,R0102,Consultation Room,D0001
+B0001,R0103,Emergency Room,D0001
+B0001,R0104,Pharmacy,D0001
+B0001,R0201,Laboratory,D0001
+B0001,R0202,Laboratory,D0001
+B0001,R0203,X-ray Room,D0001
+B0001,R0204,X-ray Room,D0001
+B0001,R0301,Consultation Room,D0004
+B0001,R0302,Consultation Room,D0005
+B0001,R0303,Consultation Room,D0006
+B0001,R0304,Consultation Room,D0007
+B0001,R0401,Operating Room,D0008
+B0001,R0402,Consultation Room,D0009
+B0001,R0403,Consultation Room,D0010
+B0001,R0404,X-ray Room,D0003
+B0002,R0101,Treatment Room,D0002
+B0002,R0102,Consultation Room,D0005
+B0002,R0103,Treatment Room,D0005
+B0002,R0104,Consultation Room,D0006
+B0002,R0201,Consultation Room,D0010
+B0002,R0202,Consultation Room,D0009
+B0002,R0203,Consultation Room,D0009
+B0002,R0204,Operating Room,D0008
+B0002,R0301,Operating Room,D0008
+B0002,R0302,Treatment Room,D0006
+B0002,R0303,Operating Room,D0008
+B0002,R0304,Treatment Room,D0010
+B0002,R0401,Consultation Room,D0010
+B0002,R0402,Treatment Room,D0007
+B0002,R0403,Operating Room,D0008
+B0002,R0404,X-ray Room,D0003
+B0003,R0101,Critical Care Room,D0002
+B0003,R0102,Critical Care Room,D0002
+B0003,R0103,Critical Care Room,D0002
+B0003,R0104,Isolation ICU Room,D0002
+B0003,R0201,X-ray Room,D0003
+B0003,R0202,MRI Room,D0003
+B0003,R0203,Operating Room,D0008
+B0003,R0204,Operating Room,D0008
+B0004,R0101,Consultation Room,D0001
+B0004,R0102,Consultation Room,D0001
+B0004,R0103,Consultation Room,D0005
+B0004,R0104,Consultation Room,D0005
+B0004,R0201,Treatment Room,D0005
+B0004,R0202,Consultation Room,D0007
+B0004,R0203,Consultation Room,D0007
+B0004,R0204,X-ray Room,D0003
